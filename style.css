@@ -1,0 +1,42 @@
+p{
+  font-family: 'Josefin Sans';
+}
+
+.picture{
+  background-image: url(https://aisvip-a.akamaihd.net/masters/520356/1000x562/hayden-christensen-warum-er-den-star-wars-ruhm-satt-hatte.jpg);
+  height: 350px;
+  background-size: cover;
+  background-position: center;
+  text-align: center;
+}
+
+h2{
+  position: absolute;
+  top: 60%;
+  left: 25%;
+  color: #222 grey;
+  font-family: 'Abril Fatface';
+  font-size: 30px;
+}
+
+h1{
+  position: absolute;
+  top: 70%;
+  left: 25%;
+  font-size: 50px;
+}
+
+.quote{
+  background: #222222;
+  width: 400px;
+  height: 70px;
+  font-size: 24px;
+  color: white;
+}
+
+.container{
+  margin: 50px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
